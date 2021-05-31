@@ -1,6 +1,5 @@
 #include <iostream>
 
-#define ඞඞඞඞඞඞ u8
 #define ඞ int
 #define ඞඞ main
 #define ඞ_ඞ <<
