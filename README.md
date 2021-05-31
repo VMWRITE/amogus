@@ -1,0 +1,2 @@
+# amogus
+C++ BEST LANGUAGE!!!!!!!!!
